@@ -34,18 +34,3 @@ Challenges involving `CASE` statements, conditional logic, and specific data for
 | New Companies | [View Challenge](https://www.hackerrank.com/challenges/the-company/problem) |
 
 ---
-
-## 📈 Aggregation
-Using functions like `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`, and the `GROUP BY` clause.
-
-| Problem Name | HackerRank Link |
-| :--- | :--- |
-| The Count Function | [View Challenge](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) |
-| The Sum Function | [View Challenge](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) |
-| The Average Function | [View Challenge](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) |
-| Average Population | [View Challenge](https://www.hackerrank.com/challenges/average-population/problem) |
-| Japan Population | [View Challenge](https://www.hackerrank.com/challenges/japan-population/problem) |
-
----
-
-> **Note:** These solutions are primarily written in **MySQL**.
